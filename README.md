@@ -1,2 +1,3 @@
 # odin-recipes
-A website made to demonstrate foundational HTML coding ability
+
+A website made to demonstrate foundational HTML coding ability.
