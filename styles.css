@@ -1,0 +1,109 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 241, 224);
+    text-align: center;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+img {
+    border-radius: 30px;
+    max-width: 800px;
+    min-width: 200px;
+    height: auto;
+    width: 80%;
+}
+
+p {
+    width: 50%;
+    margin: auto;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 28px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+li {
+    padding: 6px;
+    font-size: 22px;
+}
+
+ul {
+    padding-left: 2px;
+    text-align: left;
+}
+
+ol {
+    padding-left: 5px;
+    text-align: left;
+}
+
+.recipe-img {
+    border-radius: 30px;
+    max-width: 600px;
+    min-width: 200px;
+    height: auto;
+    width: 80%;
+}
+
+
+p,
+h2,
+h3 {
+    padding: 5px;
+    max-width: 700px;
+}
+
+
+.rice-page {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 238, 181);
+    color: black;
+    text-align: center;
+}
+
+.spag-page {
+    font-family: Arial, sans-serif;
+    background-color: rgb(196, 208, 247);
+    color: black;
+    text-align: center;
+}
+
+.pot-page {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 224, 221);
+    color: black;
+    text-align: center;
+}
+
+
+.home-list {
+    text-align: center;
+    list-style: none;
+    width: 100%;
+}
+
+.home-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    min-width: 200px;
+}
+.home-list-item {
+    font-size: 25px;
+}
